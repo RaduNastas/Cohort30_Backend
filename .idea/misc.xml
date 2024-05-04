@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lesson01_demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson02_demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson02_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson03_08_04/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson04_11_04/homeWork/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson04_11_04/classWork/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson06_15_04/homeWork/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson07_17_04/firstWebApp/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson07_17_04/thirdWebApp/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson07_17_04/secondWebApp/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson07_17_04/our_first_spring_boot/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson08_19_04/word/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson09_22_04/mvc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson10_24_04/demo-user/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson12_29_04/ec/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
